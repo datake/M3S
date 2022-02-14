@@ -4,8 +4,6 @@ Please refer to https://arxiv.org/pdf/1902.11038.pdf to look into the details of
 
 As for the code, please refer to **Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning** (AAAI 2018) github: https://github.com/liqimai/gcn/tree/AAAI-18/, since our code is directly adapted from this paper.  
 
-We are still sorting out our source code, but before that you can try your ideas based on this code and compare results with us shown in our paper directly.
-
 Contact information can refer to Ke Sun's personal website: https://sites.google.com/view/kesun.
 
 ## Reference
